@@ -1,0 +1,6 @@
+ #rpv-default-layout__sidebar-tab-2 , #rpv-default-layout__sidebar-tab-1, #rpv-core__tooltip-body-full-screen-enter {
+    display:none ;
+}
+.p-dropdown:not(.p-disabled).p-focus{
+    border: 2px solid black;
+  }

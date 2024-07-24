@@ -1,0 +1,8 @@
+.custom-paginator .p-paginator-pages .p-paginator-page.p-highlight {
+  background-color: #a5e6f7 !important; 
+} 
+
+.p-dropdown-filter{
+  border: 2px solid rgb(216, 216, 216) !important;
+  box-shadow: none;
+}

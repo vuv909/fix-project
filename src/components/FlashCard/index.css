@@ -1,0 +1,14 @@
+.flip {
+    transform: rotateY(360deg);
+    transition: transform 1s ease;
+  }
+  
+  .flip:hover {
+    cursor: pointer;
+  }
+  
+  .flip > div {
+    backface-visibility: hidden;
+    position: relative;
+  }
+  

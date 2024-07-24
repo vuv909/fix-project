@@ -1,0 +1,34 @@
+.p-dropdown-filter{
+    border: 2px solid rgb(216, 216, 216) !important;
+    box-shadow: none;
+  }
+/* Custom styles for the paginator dropdown */
+.p-paginator .p-dropdown {
+  border: 2px solid #a5e6f7 !important;
+  box-shadow: none;
+}
+
+.custom-checkbox-column .p-checkbox-box {
+  border: 3px solid rgb(211, 211, 211) !important;
+}
+
+.custom-checkbox-column .p-checkbox-input:checked + .p-checkbox-box {
+  border: none !important;
+}
+
+.custom-checkbox-column .p-checkbox-input:not(:checked) + .p-checkbox-box {
+  border: 3px solid rgb(211, 211, 211) !important;
+}
+
+
+.p-checkbox-box {
+  border: 3px solid rgb(211, 211, 211) !important;
+}
+
+.p-checkbox-input:checked + .p-checkbox-box {
+  border: none !important;
+}
+
+.p-checkbox-input:not(:checked) + .p-checkbox-box {
+  border: 3px solid rgb(211, 211, 211) !important;
+}
